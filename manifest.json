@@ -1,6 +1,6 @@
 {
-  "name": "GPT-3 Writer",
-  "description": "Write a blog post in the style of your favorite thinker anywhere!",
+  "name": "Good Writer",
+  "description": "Fix your writing so it's easy to understand and fun to read!",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
